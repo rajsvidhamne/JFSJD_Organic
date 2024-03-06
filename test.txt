@@ -1,2 +1,2 @@
 <h1>Welcome to github </h1>
-hi
+Github 
